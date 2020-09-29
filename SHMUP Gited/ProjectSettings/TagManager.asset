@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - PlayerBullet
+  - healthText
+  - scoreText
+  - pauseMenu
+  - nameText
   layers:
   - Default
   - TransparentFX
